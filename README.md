@@ -1,4 +1,3 @@
-# football-data-portfolio
 # Football Data & Scouting Portfolio
 
 Welcome to my portfolio! I am a passionate football enthusiast with a background as a goalkeeper. My goal is to bridge the gap between tactical football knowledge and data-driven decision-making.
