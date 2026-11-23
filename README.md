@@ -15,7 +15,7 @@ Welcome to my portfolio! I am a passionate football enthusiast with a background
 ## 📂 Projects
 Here I will publish my work, including:
 
-- *[Bundesliga Goal Analysis (Excel)](./Bundesliga_Analyse.xlsx)*: An interactive pivot table and chart analyzing home and away goals in the current Bundesliga season.
+- *[Bundesliga Goal Analysis (Excel)](./Bundesliga_Analyse.xlsx)*https://github.com/tmfanalys/football-data-portfolio/blob/main/Bild_2026-11-23_174011111.png: An interactive pivot table and chart analyzing home and away goals in the current Bundesliga season.
 - [ ] Player Scouting Reports (PDF/Excel)
 - [ ] Interactive Match Dashboards (Power BI)
 - [ ] Tactical Match Analyses
