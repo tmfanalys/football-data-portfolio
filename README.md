@@ -12,10 +12,12 @@ Welcome to my portfolio! I am a passionate football enthusiast with a background
 - *Tools:* Power BI, Excel (learning and building projects), basic knowledge of open football data sources.
 - *Football Knowledge:* Practical experience as a player (goalkeeper), trainer, and completed scouting foundations.
 
-## 📂 Upcoming Projects
+## 📂 Projects
 Here I will publish my work, including:
+
+- *[Bundesliga Goal Analysis (Excel)](./Bundesliga_Analyse.xlsx)*: An interactive pivot table and chart analyzing home and away goals in the current Bundesliga season.
 - [ ] Player Scouting Reports (PDF/Excel)
 - [ ] Interactive Match Dashboards (Power BI)
 - [ ] Tactical Match Analyses
-
+      
 Stay tuned!
