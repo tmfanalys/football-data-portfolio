@@ -12,6 +12,13 @@ Welcome to my portfolio! I am a passionate football enthusiast with a background
 - *Tools:* Power BI, Excel (learning and building projects), basic knowledge of open football data sources.
 - *Football Knowledge:* Practical experience as a player (goalkeeper), trainer, and completed scouting foundations.
 
+## 📂 Portfolio Areas
+
+Click on the folders below to explore my specialized work:
+
+*   📊 **[Data Analysis](./Data-Analysis)**: Excel dashboards, data visualizations, and KPIs.
+*   🧠 **[Match & Performance Analysis](./Performance-Analysis)**: Match breakdowns, game management, and tactical insights.
+
 ## 📂 Projects Planed
 Here I will publish my work, including:
 
