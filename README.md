@@ -15,7 +15,10 @@ Welcome to my portfolio! I am a passionate football enthusiast with a background
 ## 📂 Projects
 Here I will publish my work, including:
 
-- *[Bundesliga Goal Analysis (Excel)](./Bundesliga_Analyse.xlsx)*  (https://github.com/tmfanalys/football-data-portfolio/blob/main/Bild_2026-11-23_174011111.png)
+### The Home and Away Advantage
+This combination chart compares the goals Scored from each Team 
+
+![Analyse_Bundesliga]
 -  Key Insights from the Data
 - **Home Advantage:** The data clearly shows a strong home advantage for teams like RB Leipzig (23 home goals vs. only 2 away goals).
 - **Surprising Trends:** Teams like Mainz 05 seem to perform better away from home (12 away goals vs. 7 home goals).
