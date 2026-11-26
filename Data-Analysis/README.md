@@ -23,26 +23,26 @@ This project analyzes the relationship between total shots, shots on target, and
 
 https://1drv.ms/x/c/86f5fde818f0dca3/IQBlIa2hDiyYR6kYmZNBi-RrAXnKzjiBFGOsV09MP2sBM2U?e=W3G2q8&nav=MTVfezlCQjJGMDRELUI1OTEtNEJBQS1CQjNCLThGNDgzMURCOEJDRn0
 
-### Key Insights (Conversion Rates):
+**Key Insights (Conversion Rates):
 *   **The Clinical Machines (Bayern & Leipzig):** Both teams are incredibly efficient. RB Leipzig scored 25 goals from 66 shots on target, resulting in a stunning conversion rate of **~38%**. Bayern Munich is right there with them, converting **~39%** of their shots on target (24 goals from 62 shots). 
 *   **Wasted Volume (Augsburg):** Augsburg has the highest number of total shots in the league (173), but they only managed to score 16 goals. This results in a very poor conversion rate of just **~9%** from total shots (and only **~29%** from shots on target). They waste a massive amount of attacking potential.
 *   **The Outlier (Schalke 04):** Schalke needed 86 total shots to score just 3 goals. Their conversion rate from total shots is a disastrous **~3.5%**. Even from their 28 shots on target, they only scored **~11%** of the time.
 
-### Analytical Takeaway:
+**Anlytical Takeaway:
 Generating a high volume of shots is useless without precision. The league average conversion rate from shots on target is around 32.6%. Teams like Augsburg must focus on creating *high-quality chances* rather than just shooting from anywhere. Coaches looking for a new striker should ignore total shot volume and instead look for players with high "Goals per Shot on Target" percentages, like the forwards from Leipzig and Bayern.
 
 
-## Tactical Fouling: How Many Fouls Lead to Cards?
+**Tactical Fouling: How Many Fouls Lead to Cards?
 This chart analyzes the discipline and game control of Bundesliga teams. It compares the total number of fouls (blue bars) with the resulting yellow cards (orange bars) and red cards (red line).
 
 <img width="1153" height="509" alt="Screenshot 2026-11-26 185054" src="https://github.com/user-attachments/assets/ad3024d2-8f8a-4c1a-b76d-6e9278333443" />
 
 https://1drv.ms/x/c/86f5fde818f0dca3/IQBlIa2hDiyYR6kYmZNBi-RrAXnKzjiBFGOsV09MP2sBM2U?e=HNeN2S&nav=MTVfezg3QTlENEI3LTY0RkEtNDA4MS04ODEzLTVGMkFCRjAwRDgyM30
 
-### Key Insights:
+**Key Insights:
 *   **The "Card Magnet" (Union Berlin):** Union Berlin committed 101 fouls (mid-table), but received a staggering 26 yellow cards – by far the highest in the league. This highlights a lack of discipline or a tendency to commit tactical fouls in dangerous areas.
 *   **Dangerous Tackles (Augsburg):** Augsburg committed the fewest fouls in the league (82), yet they received 12 yellow cards and a massive 3 red cards. This indicates that when they *do* foul, it is often reckless, poorly timed, or highly dangerous.
 *   **High Volume, Low Punishment (Freiburg & Paderborn):** Both teams committed over 120 fouls (Freiburg 123, Paderborn 121). However, they received relatively few cards (17 and 14). They seem to foul "smartly" – stopping counter-attacks in safe areas without getting booked as often as other teams.
 
-### Analytical Takeaway:
+**Analytical Takeaway:
 The total number of fouls is a misleading metric for a coach. The real metric is **"Foul Efficiency"** (How many fouls does it take to get a card?). While Freiburg fouls a lot but stays disciplined, Augsburg commits fewer fouls but takes extreme risks (3 red cards). A coach analyzing a team like Augsburg must focus on tackling technique, while a coach preparing to play against Union Berlin must address the team's discipline to avoid unnecessary suspensions.
