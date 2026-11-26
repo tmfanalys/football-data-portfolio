@@ -21,7 +21,7 @@ This project analyzes the relationship between total shots, shots on target, and
 
 <img width="1178" height="652" alt="Screenshot 2026-11-26 173022" src="https://github.com/user-attachments/assets/8dcd64ad-ff42-4a0b-9a95-034274c06e22" />
 
-https://1drv.ms/x/c/86f5fde818f0dca3/IQBlIa2hDiyYR6kYmZNBi-RrAXnKzjiBFGOsV09MP2sBM2U?e=j0D2Nj
+https://1drv.ms/x/c/86f5fde818f0dca3/IQBlIa2hDiyYR6kYmZNBi-RrAXnKzjiBFGOsV09MP2sBM2U?e=W3G2q8&nav=MTVfezlCQjJGMDRELUI1OTEtNEJBQS1CQjNCLThGNDgzMURCOEJDRn0
 
 ### Key Insights (Conversion Rates):
 *   **The Clinical Machines (Bayern & Leipzig):** Both teams are incredibly efficient. RB Leipzig scored 25 goals from 66 shots on target, resulting in a stunning conversion rate of **~38%**. Bayern Munich is right there with them, converting **~39%** of their shots on target (24 goals from 62 shots). 
