@@ -12,10 +12,3 @@ When analyzing a match or a team, I focus on:
 ---
 
 ## 📂 Latest Analyses
-*(In this section, I will publish my detailed tactical breakdowns and match reports.)*
-
-### [Placeholder: e.g., "Tactical Breakdown: The High Press of Team X"]
-*Here will be the detailed analysis of a specific match or team system, complete with pitch diagrams and key takeaways for coaches.*
-
-**Analytical Takeaway:**
-*(e.g., "Team X's 3-2 build-up structure leaves them vulnerable to counter-attacks on the wings. Coaches playing against them should instruct their wingers to press high and narrow.")*
