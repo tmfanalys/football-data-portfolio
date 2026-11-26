@@ -32,7 +32,7 @@ https://1drv.ms/x/c/86f5fde818f0dca3/IQBlIa2hDiyYR6kYmZNBi-RrAXnKzjiBFGOsV09MP2s
 Generating a high volume of shots is useless without precision. The league average conversion rate from shots on target is around 32.6%. Teams like Augsburg must focus on creating *high-quality chances* rather than just shooting from anywhere. Coaches looking for a new striker should ignore total shot volume and instead look for players with high "Goals per Shot on Target" percentages, like the forwards from Leipzig and Bayern.
 
 
-**Tactical Fouling: How Many Fouls Lead to Cards?
+## Tactical Fouling: How Many Fouls Lead to Cards?
 This chart analyzes the discipline and game control of Bundesliga teams. It compares the total number of fouls (blue bars) with the resulting yellow cards (orange bars) and red cards (red line).
 
 <img width="1153" height="509" alt="Screenshot 2026-11-26 185054" src="https://github.com/user-attachments/assets/ad3024d2-8f8a-4c1a-b76d-6e9278333443" />
