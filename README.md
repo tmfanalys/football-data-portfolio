@@ -17,6 +17,5 @@ Here I will publish my work, including:
 
 - [ ] Player Scouting Reports (PDF/Excel)
 - [ ] Interactive Match Dashboards (Power BI)
-- [ ] Tactical Match Analyses
       
 Stay tuned!
