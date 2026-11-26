@@ -12,3 +12,6 @@ When analyzing a match or a team, I focus on:
 ---
 
 ## 📂 Latest Analyses
+
+*   **[Match Analysis: Schlebusch U19 vs. Godesberg U19](./Schlebusch_vs_Godesberg.md)**
+    *A detailed breakdown of pressing structures, build-up play, and tactical vulnerabilities in a youth match.*
