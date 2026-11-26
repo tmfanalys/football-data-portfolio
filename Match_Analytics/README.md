@@ -1,13 +1,12 @@
-# Tactical Analysis Projects
+# Match & Performance Analysis
 
-In this section, I break down match tactics, team formations, and game models. A tactical analysis goes beyond just looking at the result; it examines *how* a team plays, their pressing structures, build-up play, and in-game adjustments.
+In this section, I evaluate team performances based on specific matches. Instead of just looking at the final score, I break down the tactical setups, in-game management, and the psychological factors that influenced the outcome.
 
-## 🔍 My Analytical Framework
-When analyzing a match or a team, I focus on:
-*   **In-Possession:** Build-up patterns, formations, width vs. depth, and attacking transitions.
-*   **Out-of-Possession:** Pressing triggers, defensive blocks (high, mid, or low), and counter-pressing.
-*   **Set-Pieces:** Offensive and defensive corner/free-kick routines.
-*   **Individual Roles:** How specific players (e.g., the goalkeeper as a build-up player or the holding midfielder) influence the team's structure.
+## 🔍 What I focus on:
+*   **Game Management:** How teams handle specific match scenarios (e.g., protecting a lead, playing with a man advantage, or reacting to going behind).
+*   **Tactical Setups & Dynamics:** How formations shift between in-possession and out-of-possession phases (e.g., back-fours turning into back-fives).
+*   **Exploiting Weaknesses:** How teams identify and punish structural flaws, such as high defensive lines, poor pressing traps, or aerial weaknesses.
+*   **In-Game Adjustments:** Evaluating coach interventions (e.g., tactical changes at half-time to fix pressing or aerial issues).
 
 ---
 
