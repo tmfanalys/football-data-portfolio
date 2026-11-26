@@ -1,5 +1,7 @@
 # Tactical Match Analysis: Schlebusch U19 vs. Godesberg U19
 
+* Date: 21.11.26
+
 *Context: Analyzed from the sideline due to injury. This report breaks down the tactical setups, in-game dynamics, and the resulting vulnerabilities of both teams.*
 
 ## 1. Godesberg: In-Possession Profile
