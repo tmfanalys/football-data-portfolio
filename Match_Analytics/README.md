@@ -16,6 +16,6 @@ In this section, I evaluate team performances based on specific matches. Instead
     *An analysis of formation dynamics and a critical look at game management and psychology under a high lead.*
 
 
-*   **[Match Analysis: Schlebusch U19 vs. Godesberg U19](Match_Analytics/Schlebusch vs Godesberg)**
+*   **[Match Analysis: Schlebusch U19 vs. Godesberg U19](./Schlebusch vs Godesberg)**
     *A detailed breakdown of pressing structures, build-up play, and tactical vulnerabilities in a youth match.*
 
