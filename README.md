@@ -18,7 +18,7 @@ Click on the folders below to explore my specialized work:
 
 *   📊 **[Data Analysis](./Data-Analysis)**: Excel dashboards, data visualizations, and KPIs.
 *   🧠 **[Match & Performance Analysis](./Match_Analytics)**: Match breakdowns, game management, and tactical insights.
-*   🧤 **[Goalkeeping](./Goalkeeping)**: Goalkeeper-specific analyses, profiles, and training drills.
+*   🧤 **[Goalkeeping](./Goalkeeping/README.md)**: Goalkeeper-specific analyses, profiles, and training drills.
 *   📋 **[Coaching](./Coaching)**: Structured training session plans and coaching concepts.
   
 ## 📂 Projects Planed
