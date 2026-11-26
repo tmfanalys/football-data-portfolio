@@ -19,8 +19,6 @@ While generating a high volume of corners indicates territorial dominance, it do
 ## Bundesliga Shot Efficiency Analysis
 This project analyzes the relationship between total shots, shots on target, and goals scored by each team in the Bundesliga. The chart visualizes how efficient teams are in converting their chances.
 
-# Data Analysis Projects
-
 <img width="1178" height="652" alt="Screenshot 2026-11-26 173022" src="https://github.com/user-attachments/assets/8dcd64ad-ff42-4a0b-9a95-034274c06e22" />
 
 https://1drv.ms/x/c/86f5fde818f0dca3/IQBlIa2hDiyYR6kYmZNBi-RrAXnKzjiBFGOsV09MP2sBM2U?e=j0D2Nj
