@@ -18,7 +18,7 @@ Here I will publish my work, including:
 ### The Home and Away Advantage
 This combination chart compares the goals Scored from each Team 
 
-![Analyse_Bundesliga]
+![Analyse_Bundesliga](Home VS Away)
 -  Key Insights from the Data
 - **Home Advantage:** The data clearly shows a strong home advantage for teams like RB Leipzig (23 home goals vs. only 2 away goals).
 - **Surprising Trends:** Teams like Mainz 05 seem to perform better away from home (12 away goals vs. 7 home goals).
