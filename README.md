@@ -21,7 +21,7 @@ Click on the folders below to explore my specialized work:
 *   🧤 **[Goalkeeping](./Goalkeeping)**: Goalkeeper-specific analyses, profiles, and training drills.
 *   📋 **[Coaching](./Coaching)**: Structured training session plans and coaching concepts.
 *   ♟️ **[Tactics & Set-Pieces](./Tactics)**: Game models, tactical principles, and standard routines.
-*   
+  
 ## 📂 Projects Planed
 Here I will publish my work, including:
 
