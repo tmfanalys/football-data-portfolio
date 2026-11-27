@@ -19,14 +19,12 @@ Click on the folders below to explore my specialized work:
 *   📊 **[Data Analysis](./Data-Analysis)**: Excel dashboards, data visualizations, and KPIs.
 *   🧠 **[Match & Performance Analysis](./Match_Analytics)**: Match breakdowns, game management, and tactical insights.
 *   🔍 **[Player Scouting](./Player_Scouting)**: Detailed scouting reports and player evaluations.
-*   🧤 **[Goalkeeping](./Goalkeeping)**: Goalkeeper-specific analyses, profiles, and training drills.
-*   📋 **[Coaching](./Coaching)**: Structured training session plans and coaching concepts.
-*   ♟️ **[Tactics & Set-Pieces](./Tactics)**: Game models, tactical principles, and standard routines.
   
 ## 📂 Projects Planed
 Here I will publish my work, including:
 
-- [ ] Player Scouting Reports (PDF/Excel)
-- [ ] Interactive Match Dashboards (Power BI)
-      
+*   🧤 **[Goalkeeping](./Goalkeeping)**: Goalkeeper-specific analyses, profiles, and training drills.
+*   📋 **[Coaching](./Coaching)**: Structured training session plans and coaching concepts.
+*   ♟️ **[Tactics & Set-Pieces](./Tactics)**: Game models, tactical principles, and standard routines.
+
 Stay tuned!
