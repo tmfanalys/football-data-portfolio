@@ -12,4 +12,3 @@ Welcome to my goalkeeper-specific section. As a former goalkeeper, I bring a uni
 
 ## 📂 Latest Projects
 *(In this section, I will publish my goalkeeper analyses and training concepts.)*
-
